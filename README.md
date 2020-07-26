@@ -1,14 +1,14 @@
 # safari
 Small Tile Test
 
-##Img Source
+## Img Source
 ./img_source
 
-##Game Logic
+## Game Logic
 ./src/states/safari/Safari/ts
 
-##Install
+## Install
 `yarn`
 
-##Run
+## Run
 `yarn run dev`
