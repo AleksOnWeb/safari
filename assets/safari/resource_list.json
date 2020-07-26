@@ -1,0 +1,12 @@
+{
+	"default": [
+		"./assets/safari/default/images/atlas0.json",
+		"./assets/safari/default/pack.json"
+	],
+	"resolutions": {
+		"default": [
+			1280,
+			482
+		]
+	}
+}

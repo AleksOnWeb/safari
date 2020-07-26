@@ -1,0 +1,92 @@
+@font-face {
+    font-family: "Digital Readout ExpUpright";
+    src: url("./digitalreadout/Digireu_.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Orbitron";
+    src: url("./orbitron/orbitron-bold.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat Black";
+    src: url("./montserrat/Montserrat-Black.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat Bold";
+    src: url("./montserrat/Montserrat-Bold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat Regular";
+    src: url("./montserrat/Montserrat-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Enigma';
+    src: url('./enigma/EnigmaU_2.eot');
+    src: url('./enigma/EnigmaU_2.eot?#iefix') format('embedded-opentype'),
+    url('./enigma/EnigmaU_2.woff') format('woff'),
+    url('./enigma/EnigmaU_2.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Century Gothic Bold";
+    src: url("./centurygothicbold/GOTHICB.TTF") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roadgeek 2005 Engschrift Regular";
+    src: url("./roadgeek/Roadgeek-2005-Engschrift-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "AFuturica";
+    src: url("./afuturica/afuturica.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontAwesome Regular";
+    src: url('./fontawesome/fa-regular-400.eot') format('embedded-opentype'),
+    url("./fontawesome/fa-regular-400.woff2") format("woff"),
+    url("./fontawesome/fa-regular-400.svg") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontAwesome Brands";
+    src: url('./fontawesome/fa-brands-400.eot') format('embedded-opentype'),
+    url("./fontawesome/fa-brands-400.woff2") format("woff"),
+    url("./fontawesome/fa-brands-400.svg") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontAwesome Solid";
+    src: url("./fontawesome/fa-solid-900.eot") format('embedded-opentype'),
+    url("./fontawesome/fa-solid-900.woff2") format('woff'),
+    url("./fontawesome/fa-solid-900.svg") format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

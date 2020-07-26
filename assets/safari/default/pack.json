@@ -1,0 +1,609 @@
+{
+	"fonts": {
+		"1": {
+			"size": 22,
+			"fill": "#FFFFFF",
+			"weight": "200",
+			"border_straight": true,
+			"nickname": "arialbd_14",
+			"store": "gothicb.ttf"
+		},
+		"fas": {
+			"size": 130,
+			"fill": "#ffffff",
+			"weight": "900",
+			"fontFamily": "FontAwesome Solid"
+		},
+		"far": {
+			"size": 130,
+			"fill": "#ffffff",
+			"weight": "900",
+			"fontFamily": "FontAwesome Regular"
+		},
+		"fab": {
+			"size": 130,
+			"fill": "#ffffff",
+			"weight": "400",
+			"fontFamily": "FontAwesome Brand"
+		}
+	},
+	"movies": {},
+	"sounds": {},
+	"textures": {
+		"tile": {
+			"nickname": "tile",
+			"id": "tile",
+			"store": "tile.png"
+		},
+		"car_000": {
+			"nickname": "car_000",
+			"id": "car_000",
+			"store": "car_000.png"
+		},
+		"car_001": {
+			"nickname": "car_001",
+			"id": "car_001",
+			"store": "car_001.png"
+		},
+		"car_002": {
+			"nickname": "car_002",
+			"id": "car_002",
+			"store": "car_002.png"
+		},
+		"car_003": {
+			"nickname": "car_003",
+			"id": "car_003",
+			"store": "car_003.png"
+		},
+		"car_004": {
+			"nickname": "car_004",
+			"id": "car_004",
+			"store": "car_004.png"
+		},
+		"car_005": {
+			"nickname": "car_005",
+			"id": "car_005",
+			"store": "car_005.png"
+		},
+		"car_006": {
+			"nickname": "car_006",
+			"id": "car_006",
+			"store": "car_006.png"
+		},
+		"car_007": {
+			"nickname": "car_007",
+			"id": "car_007",
+			"store": "car_007.png"
+		},
+		"car_008": {
+			"nickname": "car_008",
+			"id": "car_008",
+			"store": "car_008.png"
+		},
+		"car_009": {
+			"nickname": "car_009",
+			"id": "car_009",
+			"store": "car_009.png"
+		},
+		"car_010": {
+			"nickname": "car_010",
+			"id": "car_010",
+			"store": "car_010.png"
+		},
+		"car_011": {
+			"nickname": "car_011",
+			"id": "car_011",
+			"store": "car_011.png"
+		},
+		"car_012": {
+			"nickname": "car_012",
+			"id": "car_012",
+			"store": "car_012.png"
+		},
+		"car_013": {
+			"nickname": "car_013",
+			"id": "car_013",
+			"store": "car_013.png"
+		},
+		"car_014": {
+			"nickname": "car_014",
+			"id": "car_014",
+			"store": "car_014.png"
+		},
+		"car_015": {
+			"nickname": "car_015",
+			"id": "car_015",
+			"store": "car_015.png"
+		},
+		"car_016": {
+			"nickname": "car_016",
+			"id": "car_016",
+			"store": "car_016.png"
+		},
+		"car_017": {
+			"nickname": "car_017",
+			"id": "car_017",
+			"store": "car_017.png"
+		},
+		"car_018": {
+			"nickname": "car_018",
+			"id": "car_018",
+			"store": "car_018.png"
+		},
+		"car_019": {
+			"nickname": "car_019",
+			"id": "car_019",
+			"store": "car_019.png"
+		},
+		"car_020": {
+			"nickname": "car_020",
+			"id": "car_020",
+			"store": "car_020.png"
+		},
+		"car_021": {
+			"nickname": "car_021",
+			"id": "car_021",
+			"store": "car_021.png"
+		},
+		"car_022": {
+			"nickname": "car_022",
+			"id": "car_022",
+			"store": "car_022.png"
+		},
+		"car_023": {
+			"nickname": "car_023",
+			"id": "car_023",
+			"store": "car_023.png"
+		},
+		"car_024": {
+			"nickname": "car_024",
+			"id": "car_024",
+			"store": "car_024.png"
+		},
+		"car_025": {
+			"nickname": "car_025",
+			"id": "car_025",
+			"store": "car_025.png"
+		},
+		"car_026": {
+			"nickname": "car_026",
+			"id": "car_026",
+			"store": "car_026.png"
+		},
+		"car_027": {
+			"nickname": "car_027",
+			"id": "car_027",
+			"store": "car_027.png"
+		},
+		"car_028": {
+			"nickname": "car_028",
+			"id": "car_028",
+			"store": "car_028.png"
+		},
+		"car_029": {
+			"nickname": "car_029",
+			"id": "car_029",
+			"store": "car_029.png"
+		},
+		"car_030": {
+			"nickname": "car_030",
+			"id": "car_030",
+			"store": "car_030.png"
+		},
+		"car_031": {
+			"nickname": "car_031",
+			"id": "car_031",
+			"store": "car_031.png"
+		},
+		"car_032": {
+			"nickname": "car_032",
+			"id": "car_032",
+			"store": "car_032.png"
+		},
+		"car_033": {
+			"nickname": "car_033",
+			"id": "car_033",
+			"store": "car_033.png"
+		},
+		"car_034": {
+			"nickname": "car_034",
+			"id": "car_034",
+			"store": "car_034.png"
+		},
+		"car_035": {
+			"nickname": "car_035",
+			"id": "car_035",
+			"store": "car_035.png"
+		},
+		"car_036": {
+			"nickname": "car_036",
+			"id": "car_036",
+			"store": "car_036.png"
+		},
+		"car_037": {
+			"nickname": "car_037",
+			"id": "car_037",
+			"store": "car_037.png"
+		},
+		"car_038": {
+			"nickname": "car_038",
+			"id": "car_038",
+			"store": "car_038.png"
+		},
+		"car_039": {
+			"nickname": "car_039",
+			"id": "car_039",
+			"store": "car_039.png"
+		},
+		"car_040": {
+			"nickname": "car_040",
+			"id": "car_040",
+			"store": "car_040.png"
+		},
+		"car_041": {
+			"nickname": "car_041",
+			"id": "car_041",
+			"store": "car_041.png"
+		},
+		"car_042": {
+			"nickname": "car_042",
+			"id": "car_042",
+			"store": "car_042.png"
+		},
+		"car_043": {
+			"nickname": "car_043",
+			"id": "car_043",
+			"store": "car_043.png"
+		},
+		"car_044": {
+			"nickname": "car_044",
+			"id": "car_044",
+			"store": "car_044.png"
+		},
+		"car_045": {
+			"nickname": "car_045",
+			"id": "car_045",
+			"store": "car_045.png"
+		},
+		"car_046": {
+			"nickname": "car_046",
+			"id": "car_046",
+			"store": "car_046.png"
+		},
+		"car_047": {
+			"nickname": "car_047",
+			"id": "car_047",
+			"store": "car_047.png"
+		},
+		"car_048": {
+			"nickname": "car_048",
+			"id": "car_048",
+			"store": "car_048.png"
+		},
+		"car_049": {
+			"nickname": "car_049",
+			"id": "car_049",
+			"store": "car_049.png"
+		},
+		"car_050": {
+			"nickname": "car_050",
+			"id": "car_050",
+			"store": "car_050.png"
+		},
+		"car_051": {
+			"nickname": "car_051",
+			"id": "car_051",
+			"store": "car_051.png"
+		},
+		"car_052": {
+			"nickname": "car_052",
+			"id": "car_052",
+			"store": "car_052.png"
+		},
+		"car_053": {
+			"nickname": "car_053",
+			"id": "car_053",
+			"store": "car_053.png"
+		},
+		"car_054": {
+			"nickname": "car_054",
+			"id": "car_054",
+			"store": "car_054.png"
+		},
+		"car_055": {
+			"nickname": "car_055",
+			"id": "car_055",
+			"store": "car_055.png"
+		},
+		"car_056": {
+			"nickname": "car_056",
+			"id": "car_056",
+			"store": "car_056.png"
+		},
+		"car_057": {
+			"nickname": "car_057",
+			"id": "car_057",
+			"store": "car_057.png"
+		},
+		"car_058": {
+			"nickname": "car_058",
+			"id": "car_058",
+			"store": "car_058.png"
+		}
+	},
+	"scene": [
+		{
+			"type": "container",
+			"data": {
+				"nickname": "game",
+				"visible": true,
+				"items": [
+					{
+						"type": "picture",
+						"data": {
+							"x": 0,
+							"y": 0,
+							"width": 2150,
+							"height": 1300,
+							"textureid": "WHITE",
+							"nickname": "bg",
+							"tint": "0x125D50",
+							"visible": true
+						}
+					},
+					{
+						"type": "tile",
+						"data": {
+							"x": 0,
+							"y": 0,
+							"width": 1280,
+							"height": 482,
+							"textureid": "tile",
+							"nickname": "tile",
+							"visible": true
+						}
+					},
+					{
+						"type": "anim",
+						"data": {
+							"cycled": true,
+							"framespeed": 30,
+							"startframe": 0,
+							"x": 200,
+							"y": 410,
+							"frames": [
+								{
+									"id": "car_000"
+								},
+								{
+									"id": "car_001"
+								},
+								{
+									"id": "car_002"
+								},
+								{
+									"id": "car_003"
+								},
+								{
+									"id": "car_004"
+								},
+								{
+									"id": "car_005"
+								},
+								{
+									"id": "car_006"
+								},
+								{
+									"id": "car_007"
+								},
+								{
+									"id": "car_008"
+								},
+								{
+									"id": "car_009"
+								},
+								{
+									"id": "car_010"
+								},
+								{
+									"id": "car_011"
+								},
+								{
+									"id": "car_012"
+								},
+								{
+									"id": "car_013"
+								},
+								{
+									"id": "car_014"
+								},
+								{
+									"id": "car_015"
+								},
+								{
+									"id": "car_016"
+								},
+								{
+									"id": "car_017"
+								},
+								{
+									"id": "car_018"
+								},
+								{
+									"id": "car_019"
+								},
+								{
+									"id": "car_020"
+								},
+								{
+									"id": "car_021"
+								},
+								{
+									"id": "car_022"
+								},
+								{
+									"id": "car_023"
+								},
+								{
+									"id": "car_024"
+								},
+								{
+									"id": "car_025"
+								},
+								{
+									"id": "car_026"
+								},
+								{
+									"id": "car_027"
+								},
+								{
+									"id": "car_028"
+								},
+								{
+									"id": "car_029"
+								},
+								{
+									"id": "car_030"
+								},
+								{
+									"id": "car_031"
+								},
+								{
+									"id": "car_032"
+								},
+								{
+									"id": "car_033"
+								},
+								{
+									"id": "car_034"
+								},
+								{
+									"id": "car_035"
+								},
+								{
+									"id": "car_036"
+								},
+								{
+									"id": "car_037"
+								},
+								{
+									"id": "car_038"
+								},
+								{
+									"id": "car_039"
+								},
+								{
+									"id": "car_040"
+								},
+								{
+									"id": "car_041"
+								},
+								{
+									"id": "car_042"
+								},
+								{
+									"id": "car_043"
+								},
+								{
+									"id": "car_044"
+								},
+								{
+									"id": "car_045"
+								},
+								{
+									"id": "car_046"
+								},
+								{
+									"id": "car_047"
+								},
+								{
+									"id": "car_048"
+								},
+								{
+									"id": "car_049"
+								},
+								{
+									"id": "car_050"
+								},
+								{
+									"id": "car_051"
+								},
+								{
+									"id": "car_052"
+								},
+								{
+									"id": "car_053"
+								},
+								{
+									"id": "car_054"
+								},
+								{
+									"id": "car_055"
+								},
+								{
+									"id": "car_056"
+								},
+								{
+									"id": "car_057"
+								},
+								{
+									"id": "car_058"
+								}
+							],
+							"nickname": "car",
+							"visible": true
+						}
+					},
+					{
+						"type": "label",
+						"data": {
+							"x": 20,
+							"y": 20,
+							"nickname": "fps_text",
+							"fontid": "1",
+							"text": "fps",
+							"visible": true
+						}
+					},
+					{
+						"type": "button4state",
+						"data": {
+							"x": 885,
+							"y": 20,
+							"width": 150,
+							"height": 150,
+							"stayid": "EMPTY",
+							"hoverid": "EMPTY",
+							"disableid": "EMPTY",
+							"downid": "EMPTY",
+							"nickname": "btn_start_stop",
+							"visible": true
+						}
+					},
+					{
+						"type": "label",
+						"data": {
+							"x": 900,
+							"y": 20,
+							"nickname": "lb_stop",
+							"fontid": "fas",
+							"text": "\uf28d",
+							"visible": true
+						}
+					},
+					{
+						"type": "label",
+						"data": {
+							"x": 900,
+							"y": 20,
+							"nickname": "lb_play",
+							"fontid": "fas",
+							"text": "\uf144",
+							"visible": false
+						}
+					}
+				]
+			}
+		}
+	]
+}

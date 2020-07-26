@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="msapplication-tap-highlight" content="no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="apple-mobile-web-app-title" content="<%= htmlWebpackPlugin.options.title %>">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/static/favicon/apple-touch-icon.png">
+    <link rel="icon" href="/assets/static/favicon/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/static/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/static/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/static/favicon/site.webmanifest">
+    <script data-ad-client="ca-pub-1197904650021532" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        window.GIT_VERSION = "<%= htmlWebpackPlugin.options.gitversion %>";
+    </script>
+    <style>
+        body {
+            background-color: black
+        }
+    </style>
+</head>
+<body id="app-root">
+<div id="sceneDiv" class="overlay">
+    <canvas id="scene"></canvas>
+</div>
+</body>
+
+</html>
